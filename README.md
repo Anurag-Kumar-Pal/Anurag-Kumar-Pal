@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Kumar Pal</h1>
+<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Anurag Kumar Pal</h1>
 <h3 align="center">A Senior Data Analyst from India with a passion for exploring data and uncovering thoughtful solutions.</h3>
 
 - 🔭 I’m currently working on [Time Series Forecasting](<TBU>)
