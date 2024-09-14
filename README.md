@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PySpark, Azure Data Lake, Azure Data Factory, Azure Data Bricks**
 
-- ⚡ Fun fact **I’m passionate about keeping up with geopolitical developments and diving into books from "non-fiction" category.**
+- ⚡ Fun fact **I’m passionate about keeping up with geopolitical developments and diving into "non-fiction" books.**
 
 
 
