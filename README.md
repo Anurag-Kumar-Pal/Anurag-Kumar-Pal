@@ -22,6 +22,7 @@
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="azure databricks" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/products/data-factory" target="_blank" rel="noreferrer"> <img src="https://shorturl.at/hLRV0" alt="azure data factory" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/solutions/data-lake" target="_blank" rel="noreferrer"> <img src="https://shorturl.at/jZNcD" alt="azure data lake" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="https://shorturl.at/iDyF4" alt="azure devops" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
