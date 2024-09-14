@@ -29,5 +29,5 @@
 </p>
 
 
-
+<h3 align="left"> 📈 GitHub Profile Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-kumar-pal&show_icons=true&locale=en" alt="anurag-kumar-pal" /></p>
