@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hey.anuragpal@gmail.com**
 
-- 📄 Know about my experiences [Senior Data Analyst Resume | Anurag Kumar Pal](https://drive.google.com/file/d/14hKY7KR-LWuoJiN25Aq5svAr4LGKzpUA/view?usp=sharing)
+- 📄 Know about my experiences [Resume | Anurag Kumar Pal](https://drive.google.com/file/d/14hKY7KR-LWuoJiN25Aq5svAr4LGKzpUA/view?usp=sharing)
 
 - ⚡ Fun fact **I’m passionate about keeping up with geopolitical developments and diving into non-fiction books.**
 
