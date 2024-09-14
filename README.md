@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **SQL and Techniques for Descriptive Analytics**
 
-- 👨‍💻 All of my projects are available at [<TBU>](<TBU>)
+- 👨‍💻 All of my projects are available at [Github Profile | Anurag Kumar Pal](https://github.com/Anurag-Kumar-Pal/EPGP-IIITB-Data-Science-Projects)
 
 - 💬 Ask me about **PySpark, Azure Data Lake, Azure Data Factory, Azure Data Bricks**
 
 - 📫 How to reach me **hey.anuragpal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14hKY7KR-LWuoJiN25Aq5svAr4LGKzpUA/view?usp=sharing](https://drive.google.com/file/d/14hKY7KR-LWuoJiN25Aq5svAr4LGKzpUA/view?usp=sharing)
+- 📄 Know about my experiences [Senior Data Analyst Resume | Anurag Kumar Pal](https://drive.google.com/file/d/14hKY7KR-LWuoJiN25Aq5svAr4LGKzpUA/view?usp=sharing)
 
 - ⚡ Fun fact **I’m passionate about keeping up with geopolitical developments and diving into non-fiction books.**
 
