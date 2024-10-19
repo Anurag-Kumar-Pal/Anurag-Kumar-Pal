@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [Github Profile | Anurag Kumar Pal](https://github.com/Anurag-Kumar-Pal/EPGP-IIITB-Data-Science-Projects)
 
-- 📫 How to reach me **hey.anuragpal@gmail.com**
+- 📫 How to reach me: **hey.anuragpal@gmail.com**
 
-- 💬 Ask me about **PySpark, Azure Data Lake, Azure Data Factory, Azure Data Bricks**
+- 💬 Ask me about: **PySpark, Azure Data Lake, Azure Data Factory, Azure Data Bricks**
 
-- ⚡ Fun fact **I’m passionate about keeping up with geopolitical developments and diving into "non-fiction" books.**
+- ⚡ Fun fact: **I’m passionate about keeping up with geopolitical developments and diving into "non-fiction" books.**
 
 
 
