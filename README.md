@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL and Techniques for Descriptive Analytics**
 
-- 📄 Know about my experiences [Resume | Anurag Kumar Pal](https://drive.google.com/file/d/1_xMOOofTrdDU5huP--TnL85rOIAMQEs8/view?usp=drive_link)
+<!-- - 📄 Know about my experiences [Resume | Anurag Kumar Pal](https://drive.google.com/file/d/1_xMOOofTrdDU5huP--TnL85rOIAMQEs8/view?usp=drive_link) -->
 
 - 👨‍💻 All of my projects are available at [Github Profile | Anurag Kumar Pal](https://github.com/Anurag-Kumar-Pal/EPGP-IIITB-Data-Science-Projects)
 
