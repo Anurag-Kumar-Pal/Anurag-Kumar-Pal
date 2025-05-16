@@ -20,9 +20,9 @@
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="azure databricks" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/products/data-factory" target="_blank" rel="noreferrer"> <img src="https://shorturl.at/hLRV0" alt="azure data factory" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/solutions/data-lake" target="_blank" rel="noreferrer"> <img src="https://shorturl.at/jZNcD" alt="azure data lake" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="https://shorturl.at/iDyF4" alt="azure devops" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/products/data-factory" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/azure-data-factory2539.jpg" alt="azure data factory" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/solutions/data-lake" target="_blank" rel="noreferrer"> <img src="https://www.uscloud.com/wp-content/uploads/2023/10/azure-data-lake-400x210.png" alt="azure data lake" width="60" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/azure-devops1866.jpg" alt="azure devops" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -34,11 +34,11 @@
 <a href="https://spark.apache.org/docs/latest/api/python/index.html#" target="_blank" rel="noreferrer"> <img src="https://rb.gy/xmc0ks" alt="pyspark" width="70" height="40"/> </a>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
-<a href="https://docs.dask.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://shorturl.at/asMlO" alt="dask" width="40" height="40"/> </a>
+<a href="https://docs.dask.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HBEdaln4xkawoTHwJLDwwzsVAv5FGsDADg&s" alt="dask" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> <img src="https://rb.gy/dmgqtf" alt="beautiful soup" width="70" height="40"/> </a>
 <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer"> <img src="https://rb.gy/lntqnf" alt="alteryx" width="60" height="40"/> </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://shorturl.at/KDfrG" alt="excel" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/microsoft-excel-new.jpg" alt="excel" width="40" height="40"/> </a>
 </p>
 
 
